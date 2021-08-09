@@ -1,0 +1,4 @@
+name="uchar"
+version="[distributed with OCaml 4.03 or above]"
+description="dummy backward-compatibility package for Uchar"
+requires=""
